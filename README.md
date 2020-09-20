@@ -1,5 +1,6 @@
 <h1>🚀SpaceShip & Zombies 👽</h1>
-<p>This is my first python game using Pycharm IDE.</p>
+<p>This is my first python game using Pycharm IDE. This game has two characters: player or spaceship and enemies or zombies.<br> We have to shoot bullets before zombies reach near spaceship.<br> At top left, Score will be calculated, 1 point for each successful shot & 0 point for miss. After any of the zombie reached near spaceship, then game finishes displayed by GAME OVER text.<br> This game has different sound, image & display combinations which enthrills player with gaming endeavours.<br><i> So, what are you waiting for?? </i>
+<b>Just run it in your IDE or PyCharm, Enjoy & Share your score on </b> <a href ="https://www.linkedin.com/in/achal2702/"><strong> LinkedIn</strong></a> or <a href="mailto:code.achalesh@gmail.com"><strong>Mail</strong></a>.</p>
 <h2>🤩 Libraries Used :</h2>
 <ul>
   <li> pygame </li>
