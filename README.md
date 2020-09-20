@@ -21,7 +21,7 @@
   <li> Fire: </li>
   <p> The state in which bullet is in moving condition. </p>
   </ul>
-  <h2> Classes, Methods or Functions Used for Images, Musics, Sounds, Texts & Display </h2>
+  <h2> Classes or Methods Used for Images, Musics, Sounds, Texts & Display: </h2>
   <h3> Images </h3>
   <ul>
     <li> pygame.image.load("image name") </li>
@@ -52,5 +52,13 @@
   </ul>
   <h2> Use of Math & Random Libraries: </h2>
   <p> Math library was used to implement two functions i.e. <b> sqrt() & pow(a,b) </b>.<br>
-  Random library was used for <b> respawning </b> of zombie in gaming terms by giving random coordinates over a certain range of coordinates</p>
+  Random library was used for <b> respawning </b> of zombie in gaming terms by giving random coordinates over a certain range of coordinates.</p>
+  <h2> Use of Events: </h2>
+  <ul>
+  <li> To get all events we used <i>pygame.event.get()</i>.</li>
+  <li> for identifying event type, we used <i>event.type</i>.</li>
+  <li> to know about event of key like it is released or pressed or whether it is space, left & right arrow key or any other key, we used <i> event.key</i>.</li>
+  <li> For space, right arrow & left arrow key it has to match with <b> pygame.K_SPACE, pygame.K_RIGHT and pygame.K_LEFT</b>respectively.</li>
+  <li> If we close window...then while loop has to be closed & game over....we used <b>pygame.QUIT</b>.</li>
+  </ul>
     
