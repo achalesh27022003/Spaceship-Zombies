@@ -1,20 +1,20 @@
-<h1>SpaceShip & Zombies</h1>
+<h1>🚀SpaceShip & Zombies 👽</h1>
 <p>This is my first python game using Pycharm IDE.</p>
-<h2> Libraries Used</h2>
+<h2>🤩 Libraries Used :</h2>
 <ul>
   <li> pygame </li>
   <li> random </li>
   <li> math </li>
 </ul>
-<h2> Necessary Methods (Compulsory)</h2>
+<h2>😉 Necessary Methods (Compulsory) Used:</h2>
 <ul>
   <li> pygame.init() </li>
   <li> pygame.display.update() </li>
 </ul>
-<br> <h2> Python Data Structure, Formulas & Methods used </h2>
+<<h2>😯 Python Data Structure, Formulas & Methods Used: </h2>
 <p> I used <b> List </b> python data structure and appended element in empty lists using <i>.append </i> method.
   I also used <b> Distance Formula </b> to find distance between bullets and zombie or enemy. </p> <br>
-  <h2> Certain States To Be Understood </h2>
+  <h2>🧐 Certain States To Be Understood: </h2>
   <ul>
   <li> Ready: </li>
   <p> When we can't see the bullet on screen. It is in state of going to be ejected from spaceship.</p>
@@ -50,7 +50,7 @@
   <p><i> blit means to just draw !!</i></p>
   <li>screen.fill((R,G,B))</li>
   </ul>
-  <h2> Use of Math & Random Libraries </h2>
+  <h2> Use of Math & Random Libraries: </h2>
   <p> Math library was used to implement two functions i.e. <b> sqrt() & pow(a,b) </b>.<br>
   Random library was used for <b> respawning </b> of zombie in gaming terms by giving random coordinates over a certain range of coordinates</p>
     
