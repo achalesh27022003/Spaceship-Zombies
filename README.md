@@ -1,13 +1,12 @@
-# Spaceship-Zombies
-This is my first python game using Pycharm IDE &amp; pygame(majorly) and other libraries too.<br>
-I have named this game as :<br> <h1>Spaceship & Zombies</h1>.
-<br> <h2> Libraries Used</h2><br>
+<h1>SpaceShip & Zombies</h1>
+<p>This is my first python game using Pycharm IDE.</p>
+<h2> Libraries Used</h2>
 <ul>
   <li> pygame </li>
   <li> random </li>
   <li> math </li>
 </ul>
-<br> <h2> Necessary Methods (Compulsory)</h2><br>
+<h2> Necessary Methods (Compulsory)</h2>
 <ul>
   <li> pygame.init() </li>
   <li> pygame.display.update() </li>
@@ -36,6 +35,22 @@ I have named this game as :<br> <h1>Spaceship & Zombies</h1>.
     <p> Use -1 only when you want to persists this music during whole game.</p>
     <li> variable = mixer.Sound("filename") & then variable.play() </li>
   </ul>
- 
-    
+  <h3> Texts </h3>
+  <ul>
+  <li>pygame.font.Font("Font family file", font-size)</li>
+  <li> font.render(self, text, antialias, color, background)</li>
+  </ul>
+  <h3> Display </h3>
+  <ul>
+  <li>pygame.display.set_mode((height, width))</li>
+  <p> <i> Don't Forget to use inner bracket for making it tuple.😛😂 </i></p>
+  <li>pygame.display.set_caption("Text")</li>
+  <li>pygame.display.set_icon("Icon variable in which  icon image is loaded")</li>
+  <li>screen.blit(variable name, (x,y))</li>
+  <p><i> blit means to just draw !!</i></p>
+  <li>screen.fill((R,G,B))</li>
+  </ul>
+  <h2> Use of Math & Random Libraries </h2>
+  <p> Math library was used to implement two functions i.e. <b> sqrt() & pow(a,b) </b>.<br>
+  Random library was used for <b> respawning </b> of zombie in gaming terms by giving random coordinates over a certain range of coordinates</p>
     
