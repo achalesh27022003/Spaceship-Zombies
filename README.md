@@ -82,12 +82,3 @@
  <li>Adding Sounds and Background Music</li>
  <li>Game Over</li>
 </ol>
-<h2>👇👇 Pre-Requisties: 👇👇 </h2>
-<ul>
-  <li> 😍🥰😘 Towards Game Development</li>
-  <li> Passion To Learn & Explore Things </li>
-  <li> Python Syntax, Loops, Lists, Functions.</li>
-  <li> Problem Solving & Thinking Skills </li>
- </ul>
-
-  
