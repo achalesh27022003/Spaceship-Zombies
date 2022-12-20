@@ -22,7 +22,7 @@
   <li> Fire: </li>
   <p> The state in which bullet is in moving condition. </p>
   </ul>
-  <h2>💪💪 Classes or Methods Used for Images, Musics, Sounds, Texts & Display: 💪💪 </h2>
+  <h2>💪 Classes or Methods Used for Images, Musics, Sounds, Texts & Display: 💪 </h2>
   <h3>🖼 Images: 🖼 </h3>
   <ul>
     <li> pygame.image.load("image name") </li>
@@ -89,11 +89,5 @@
   <li> Python Syntax, Loops, Lists, Functions.</li>
   <li> Problem Solving & Thinking Skills </li>
  </ul>
- <h2> Message & Contact Me: </h2>
- <h3> Message : </h3>
-  <p> Hope you 😍😍 this repository and readme file. If do, then don't forget to star it. Improvements, Suggestions, Comments & Pull Requests are always welcomed.</p>
-  <h3> Contact Me : </h3>
-  <p><a href ="mailto:code.achalesh@gmailcom"> Email Id </a> <br>
-  <a href ="https://www.linkedin.com/in/achal2702/"> LinkedIn </a> <br>
-  <b> Happy Coding !!💻 Keep Learning !!😎 Keep Growing !! 📈</b></p>
+
   
